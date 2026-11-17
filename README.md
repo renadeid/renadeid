@@ -1,65 +1,81 @@
 <div align="center">
 
-# Hi, I'm Renad Eid 👋
+# Hi, I'm Renad Eid
 
-### Junior Product Designer crafting intuitive, accessible, and beautifully considered digital experiences
+### Junior Product Designer · Arabic-first experiences · Thoughtful interactions
 
-[![Profile Views](https://komarev.com/ghpvc/?username=renadeid&color=7c3aed&style=flat-square)](https://github.com/renadeid)
+I turn complex workflows into clear, accessible digital experiences—from healthcare portals and operational dashboards to cloud product interfaces.
 
-</div>
+[Explore my projects](https://github.com/renadeid?tab=repositories)
 
-## About Me
-
-I'm a **Junior Product Designer** focused on turning complex workflows into clear, useful, and engaging product experiences.
-
-- I work across **product thinking, user flows, wireframing, prototyping, interaction design, and UI systems**.
-- I design responsive experiences for **cloud products, healthcare platforms, dashboards, and digital services**.
-- I care deeply about accessibility, purposeful motion, and **Arabic-first RTL experiences**.
-- My frontend knowledge helps me collaborate closely with engineers and design solutions that are both ambitious and buildable.
-
-## Selected Work
-
-| Project | Product design focus |
-| --- | --- |
-| [PerfectScan](https://github.com/renadeid/PerfectScan) | An Arabic-first radiology experience covering patient booking, preparation guidance, medical reports, and role-based administrative workflows. |
-| [CloudEdge Interactive Page](https://github.com/renadeid/CloudEdge-interactive-page) | A motion-led cloud product experience with responsive layouts, clear visual hierarchy, and polished interaction details. |
-| [AWS Partnership](https://github.com/renadeid/AWS-Partnership) | A partnership experience that translates complex cloud capabilities into a clear, engaging business narrative. |
-
-## What I Bring to a Product Team
-
-- Product thinking and problem framing
-- User journeys, task flows, and information architecture
-- Wireframes and high-fidelity prototypes
-- Interaction design and motion direction
-- Scalable design systems and responsive UI
-- Accessibility and Arabic/English RTL design
-- Strong designer–developer collaboration
-
-## Tools & Technical Fluency
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,tailwind,vite,supabase,aws,git,github" alt="Figma, HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Vite, Supabase, AWS, Git, and GitHub" />
-</p>
-
-I use technical knowledge to communicate clearly with engineers, understand implementation constraints, and protect design quality through delivery.
-
-## Design Principles
-
-1. **Clarity before decoration** — every visual decision should support understanding.
-2. **Systems over screens** — reusable foundations create consistent products.
-3. **Motion with purpose** — animation should guide attention and explain change.
-4. **Accessibility by default** — inclusive experiences are better experiences.
-5. **Design through delivery** — the work is not finished until the experience is built well.
-
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=renadeid&show_icons=true&hide_border=true&theme=transparent" alt="Renad's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renadeid&layout=compact&hide_border=true&theme=transparent" alt="Renad's most-used languages" />
 </div>
 
 ---
 
+## About me
+
+I'm a **Junior Product Designer** working across product thinking, user flows, wireframing, prototyping, interaction design, and UI systems.
+
+My work connects **design craft with technical implementation**. I care about clear information architecture, responsive layouts, purposeful motion, and Arabic/English experiences that feel natural in both RTL and LTR.
+
+## Featured projects
+
+### [PerfectScan — Radiology Center Portal](https://github.com/renadeid/PerfectScan)
+
+An Arabic-first patient and administration experience for a radiology center, bringing booking, examination preparation, appointments, and medical reports into one workflow.
+
+- **Patient experience:** examination selection, branch and time selection, preparation instructions, and report access.
+- **Administration:** appointment management, patient records, report approval, and branch operations.
+- **Implementation:** Supabase Auth, PostgreSQL, row-level security, and private file storage.
+
+### [PerfectScan Payroll — Staff Pay & Daily Expenses](https://github.com/renadeid/PerfectScanApp)
+
+An Arabic RTL operations dashboard for managing staff, reporting doctors, monthly payroll, and daily expenses.
+
+- Supports fixed salaries, per-shift doctor pay, and percentage-based compensation.
+- Organizes employee records, payroll calculations, and expense tracking in a focused interface.
+- **Built with:** Next.js App Router, React, TypeScript, and PostgreSQL.
+
+### [Daily Update — Windows Desktop App](https://github.com/renadeid/daily-update-windows)
+
+A desktop utility that brings Git repository updates and Windows package management into a single interface.
+
+- Discovers repositories, installed applications, development tools, and runtimes.
+- Lets users check available updates, select individual items, and confirm before updating.
+- **Built with:** Electron, JavaScript, HTML/CSS, Git, and winget.
+
+### [CloudEdge — Interactive Product Page](https://github.com/renadeid/CloudEdge-interactive-page)
+
+A motion-led cloud product experience exploring responsive layouts, clear visual hierarchy, and polished interaction details.
+
+### [AWS Partnership — Cloud Storytelling](https://github.com/renadeid/AWS-Partnership)
+
+A partnership experience translating cloud capabilities into a clear, engaging business narrative.
+
+## How I approach product design
+
+| Focus | What it means in my work |
+| :--- | :--- |
+| **Understand the workflow** | Map journeys, tasks, and information before shaping screens. |
+| **Design for clarity** | Make complex information easier to scan, understand, and act on. |
+| **Build reusable systems** | Create consistent components and responsive UI foundations. |
+| **Consider language and access** | Account for Arabic/English layouts, readability, and accessibility. |
+| **Carry design through delivery** | Use frontend knowledge to collaborate with engineers and refine implementation. |
+
+## Tools & technical fluency
+
+**Design:** Figma · User flows · Wireframes · Prototypes · Interaction design · UI systems
+
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Vite
+
+**Product implementation:** Supabase · PostgreSQL · Electron · Git · GitHub
+
+## Explore & connect
+
+Browse the featured repositories for implementation details and setup instructions, or explore [all public projects](https://github.com/renadeid?tab=repositories).
+
+---
+
 <div align="center">
-  <strong>Designing thoughtful products where clarity, craft, and technology meet.</strong>
+  <strong>Designing useful products with clarity, care, and attention to detail.</strong>
 </div>
