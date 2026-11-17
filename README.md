@@ -20,6 +20,22 @@ My work connects **design craft with technical implementation**. I care about cl
 
 ## Featured projects
 
+### [Company Hub — Internal Workspace](https://github.com/renadeid/Internal-App)
+
+A company workspace connecting projects, tasks, marketing campaigns, deliverables, and shared assets.
+
+- Brings dashboard summaries, project details, team activity, and an asset library into a consistent navigation system.
+- Explores connected workflows for campaign planning, task ownership, and deliverable review.
+- **Built with:** Next.js, React, TypeScript, Tailwind CSS, and shadcn/ui, with Supabase integration.
+
+### [Roaya IT — Bilingual Corporate Website](https://github.com/renadeid/roaya)
+
+An English/Arabic IT services website with responsive layouts, RTL language switching, and light/dark themes.
+
+- Organizes services, industries, pricing, and company information into a cohesive browsing experience.
+- Uses reusable components, shared theme foundations, and lazy-loaded routes.
+- **Built with:** Angular, TypeScript, Tailwind CSS, SCSS, and ngx-translate.
+
 ### [PerfectScan — Radiology Center Portal](https://github.com/renadeid/PerfectScan)
 
 An Arabic-first patient and administration experience for a radiology center, bringing booking, examination preparation, appointments, and medical reports into one workflow.
@@ -44,13 +60,20 @@ A desktop utility that brings Git repository updates and Windows package managem
 - Lets users check available updates, select individual items, and confirm before updating.
 - **Built with:** Electron, JavaScript, HTML/CSS, Git, and winget.
 
-### [CloudEdge — Interactive Product Page](https://github.com/renadeid/CloudEdge-interactive-page)
+### [WorldPosta Identity — Enterprise Platform Storytelling](https://github.com/renadeid/Worldposta-Identity)
 
-A motion-led cloud product experience exploring responsive layouts, clear visual hierarchy, and polished interaction details.
+An interactive overview for telecom and ISP decision-makers evaluating a branded cloud, collaboration, security, and billing ecosystem.
 
-### [AWS Partnership — Cloud Storytelling](https://github.com/renadeid/AWS-Partnership)
+- Structures a complex platform narrative around ownership, capabilities, and technical evaluation.
+- Connects information hierarchy, visual identity, and purposeful motion in a presentation-style web experience.
+- **Built with:** HTML, CSS, and JavaScript.
 
-A partnership experience translating cloud capabilities into a clear, engaging business narrative.
+## More interface explorations
+
+| Project | Focus |
+| :--- | :--- |
+| [CloudEdge Interactive Page](https://github.com/renadeid/CloudEdge-interactive-page) | Responsive cloud product presentation, visual hierarchy, and interaction design. |
+| [AWS Partnership](https://github.com/renadeid/AWS-Partnership) | Cloud partnership storytelling and business-focused presentation. |
 
 ## How I approach product design
 
@@ -66,7 +89,7 @@ A partnership experience translating cloud capabilities into a clear, engaging b
 
 **Design:** Figma · User flows · Wireframes · Prototypes · Interaction design · UI systems
 
-**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Vite
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Angular · Tailwind CSS · SCSS · Vite
 
 **Product implementation:** Supabase · PostgreSQL · Electron · Git · GitHub
 
